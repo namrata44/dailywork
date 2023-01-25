@@ -1,0 +1,9 @@
+package com.oops.multilevelinheritance;
+
+public class Animal {
+	void disp() {
+		System.out.println("eating");
+	}
+	
+
+}

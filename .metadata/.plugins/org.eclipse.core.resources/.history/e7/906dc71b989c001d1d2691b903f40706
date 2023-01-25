@@ -1,0 +1,6 @@
+package com.oops.multilevelinheritance;
+
+public class Doctor {
+	float salary=50000;
+
+}

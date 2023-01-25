@@ -1,0 +1,6 @@
+package com.oops.multilevelinheritance;
+
+public class Surgeon extends Doctor {
+	float bonus =20000;
+
+}

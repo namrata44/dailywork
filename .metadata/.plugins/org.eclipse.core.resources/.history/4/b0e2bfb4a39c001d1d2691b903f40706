@@ -1,0 +1,18 @@
+package com.oops.encapsulation;
+
+public class Test extends Employee {
+	
+	public static void main(String[]args) {
+		
+		Employee e = new Employee();
+		
+		e.setName("vijay"); 
+	    e.setAge(23);
+	    e.setAddress("Mumbai");
+	    e.setPhonenumber(7765433785);
+	    
+	    
+		
+	}
+
+}

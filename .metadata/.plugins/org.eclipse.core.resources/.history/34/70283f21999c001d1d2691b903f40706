@@ -1,0 +1,8 @@
+package com.oops.multilevelinheritance;
+
+public class Dog extends Animal {
+	void disp() {
+		System.out.println("Barking");
+	}
+
+}

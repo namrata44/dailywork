@@ -1,0 +1,9 @@
+package com.oops.multilevelinheritance;
+
+public class cityhospital {
+	
+	public static void main(String[]args) {
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.oops.multilevelinheritance;
+
+public class Germanshepherd extends Dog {
+	void disp() {
+		System.out.println("jumping");
+	}
+
+}
